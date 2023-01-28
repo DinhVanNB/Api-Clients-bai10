@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Api-Clients-bai10/static/css/main.e6c13ad2.css",
+    "main.js": "/Api-Clients-bai10/static/js/main.04f62080.js",
+    "static/js/787.72ec4843.chunk.js": "/Api-Clients-bai10/static/js/787.72ec4843.chunk.js",
+    "index.html": "/Api-Clients-bai10/index.html",
+    "main.e6c13ad2.css.map": "/Api-Clients-bai10/static/css/main.e6c13ad2.css.map",
+    "main.04f62080.js.map": "/Api-Clients-bai10/static/js/main.04f62080.js.map",
+    "787.72ec4843.chunk.js.map": "/Api-Clients-bai10/static/js/787.72ec4843.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.04f62080.js"
+  ]
+}
